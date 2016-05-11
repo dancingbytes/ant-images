@@ -40,7 +40,7 @@ Add to application.scss
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/dancingbytes/ant.
+Bug reports and pull requests are welcome on GitHub at https://github.com/dancingbytes/ant-images.
 
 ### License
 
